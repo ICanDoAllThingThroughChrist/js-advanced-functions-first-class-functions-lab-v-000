@@ -1,4 +1,4 @@
 // Code your solution in this file!
-function(drivers) {
+returnFirstTwoDrivers(drivers) {
   return drivers.slice(0,2)
 }
